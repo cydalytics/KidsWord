@@ -11,6 +11,7 @@ Linkedin:
 
 * Yeung Wong - *https://www.linkedin.com/in/yeungwong/*
 * Carrie Lo - *https://www.linkedin.com/in/carrielsc/*
+
 ---------------------------------------------------------------------------------------------
 
 ## Challenge Description
