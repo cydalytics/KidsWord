@@ -1,4 +1,4 @@
-# KidsWord *<b>Created by cyda - Yeung Wong & Carrie Lo</b>*
+# KidsWord ###*<b>Created by cyda - Yeung Wong & Carrie Lo</b>*
 To build an 🌈 interactive gaming platform for 2-6 years old kids to 🏆 learn English and have fun 💥
 
 
