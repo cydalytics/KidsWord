@@ -21,4 +21,5 @@ We leverage the package "pygame". Pygame is a cross-platform set of Python modul
 
 ## Demonstration
 Game Play
+
 ![alt text](https://miro.medium.com/max/1400/1*YvVUyUzCxBkqEXSVcCHAKw.gif)
