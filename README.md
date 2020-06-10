@@ -18,7 +18,7 @@ This project is to build an interactive game for 2–6 years old kids to learn E
 ## Project Details
 To check the tutorial article, please click [here](https://towardsdatascience.com/making-a-game-for-kids-to-learn-english-and-have-fun-with-python-d6b54af792ec).
 
-We leverage the package "pygame". Pygame is a cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries designed to be used with the Python programming language.
+We leverage the package `pygame`. Pygame is a cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries designed to be used with the Python programming language.
 
 ## Demonstration
 Game Play
